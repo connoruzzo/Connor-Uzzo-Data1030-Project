@@ -1,0 +1,23 @@
+RMSE Scores
+
+Baseline Score: 1.249
+L1-Regularized Linear Regression Mean Score: -0.2683914951549671
+Standard Deviation: 0.005639604239731472
+L2-Regularized Linear Regression Mean Score: -0.37282328164684003
+Standard Deviation: 0.006477653711286702
+Random Forest Regression Mean Score: -0.5241103273221451
+Standard Deviation: 0.03509713081592185
+SVM Regression Mean Score: -2.3156751815653687
+Standard Deviation: 0.023498914165345115
+
+R2 Scores
+
+Baseline Score: -0.766
+L1-Regularized Linear Regression Mean Score: -8.16206613921278
+Standard Deviation: 0.2844804799155979
+L2-Regularized Linear Regression Mean Score: -6.085811337598058
+Standard Deviation: 0.18889087291693535
+Random Forest Regression Mean Score: -12.704773603729448
+Standard Deviation: 1.8262716716663578
+SVM Regression Mean Score: -4.089721813284025
+Standard Deviation: 0.18775104743377954
